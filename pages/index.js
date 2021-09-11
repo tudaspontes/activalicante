@@ -29,7 +29,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
+            href="https://www.meetup.com/alicanteactivities/"
             className={styles.card}
           >
             <h2>Comunidad &rarr;</h2>
